@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777035455848",
+    "project_id": "cinefire-eb270",
+    "storage_bucket": "cinefire-eb270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777035455848:android:319cb15d936206a5994add",
+        "android_client_info": {
+          "package_name": "com.example.movie_site"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777035455848-m1cn8sthn6j1vpm43jleo2dgp5kds375.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfI1TFjeHn-lQJ7PwUdx7JAxRKHw3R01Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777035455848-m1cn8sthn6j1vpm43jleo2dgp5kds375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
